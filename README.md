@@ -1,10 +1,9 @@
 ### Ciao 👋
 <!-- ### Some about myself -->
-**I love coding, shows and fitness!**
+**I love coding, shows and working out!**
 
 ![Gopher](./gopher.gif)
 
-### How long is your attention span?
-In case TikTok is installed on your phone please just go away
-
+### Notice
+If your attention span is lower then 5 minutes please just go away and uninstall TikTok
 > **Juliette lives**
